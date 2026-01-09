@@ -15,7 +15,7 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "85C7A7B3229F25457006021B8F13A6D2"
-               BuildableName = "Pods_StreakyLoop.framework"
+               BuildableName = "libPods-StreakyLoop.a"
                BlueprintName = "Pods-StreakyLoop"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
